@@ -22,7 +22,7 @@ function About() {
             there. Wherever you’re headed, we’re here to help you find the
             moments that matter.
           </p>
-          <a href="#" className="btn">
+          <a href="#about" className="btn">
             read more
           </a>
         </article>
